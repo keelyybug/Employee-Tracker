@@ -1,4 +1,4 @@
-USE employee;
+USE employees_db;
 
 INSERT INTO department
     (name)
@@ -29,5 +29,5 @@ VALUES
     ('Kevin', 'Tupik', 4, 3),
     ('Kunal', 'Singh', 5, NULL),
     ('Malia', 'Brown', 6, 5),
-    ('Sarah', 'Lourd', 7 NULL),
+    ('Sarah', 'Lourd', 7, NULL),
     ('Tom', 'Allen', 8, 7);
