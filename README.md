@@ -79,7 +79,7 @@ As the image illustrates, your schema should contain the following three tables:
 
 ## Visuals
 
-[video](https://github.com/keelyybug/Employee-Tracker)
+[video](https://github.com/keelyybug/Employee-Tracker](https://drive.google.com/file/d/1i2Y-GieebMwyGYV0v2MRbTKZkAdwThfJ/view?usp=share_link)
 
 ![Screenshot 2023-05-01 at 7 42 17 PM](https://user-images.githubusercontent.com/128105814/235550982-ba4cfc84-76f5-461c-b3d4-5ae04426d807.png)
 
